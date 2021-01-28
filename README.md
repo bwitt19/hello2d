@@ -1,6 +1,8 @@
 # love_helloworld
 Messing around in [Love2D](https://love2d.org/) (the Lua framework) and getting my feet wet.  
 
+Love2D v11.3 is required to run this code on your machine.
+
 Going to keep this readme as a sort of personal running scratch pad of my thoughts as I keep learning more and more. I might also branch out different projects in this repo and let them exist on their own.  
 
 ### 2021-01-27:
