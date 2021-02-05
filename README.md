@@ -1,12 +1,12 @@
-# love_helloworld
-Messing around in [Love2D](https://love2d.org/) (the Lua framework) and getting my feet wet.  
+# hello2d
+Messing around in [Unity2D](https://love2d.org/) and various other frameworks (e.g. Love2D/Lua) so I can try out 2D development.  
 
-Love2D v11.3 is required to run this code on your machine.
+Unity 2019.4.18f1 is required to run this code on your machine.
 
 Going to keep this readme as a sort of personal running scratch pad of my thoughts as I keep learning more and more. I might also branch out different projects in this repo and let them exist on their own.  
 
 ### 2021-02-05:
-Nobody told me that Hollow Knight and various other amazing games were made in Unity. I already know some 3D Unity, so it just makes sense to flip to that. Saving my Lua work as a different branch in here.
+Nobody told me that Hollow Knight and various other amazing games were made in Unity. I already know some 3D Unity, so it just makes sense to flip to that. Saving my Lua work as a different branch in here. (see love2d)
 
 ### 2021-01-27:
 So I wanted to actually learn some game engine code, after a particularly unfulfilling day at work today. I figure I'd like to use my artistic chops in a way that melds with my software engineering background, so I chose this as a little pet project. Hopefully it serves as a nice breath of fresh air after work, and serves to be a nice quarantine hobby while we're all still inside.  
