@@ -5,6 +5,11 @@ Unity 2019.4.18f1 is required to run this code on your machine.
 
 Going to keep this readme as a sort of personal running scratch pad of my thoughts as I keep learning more and more. I might also branch out different projects in this repo and let them exist on their own.  
 
+### 2021-02-12:
+Feeling a lot of rhythm games lately! Notably, a lot of [Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin) and [Rhythm Heaven](https://en.wikipedia.org/wiki/Rhythm_Heaven). (specifically, a bunch of [Rhythm Heaven Fever](https://www.youtube.com/watch?v=gWy1utqHD0s) and its [stellar music](https://www.youtube.com/watch?v=B-mnfWczE20)...!) So I'm going to try and prototype a rhythm game! It also feels like a nice good first small type of game to make. Not something super intense, either. (no hyper intense DDR or Project Diva here)
+
+Made a few additions this time in terms of making a script to count beats to a rhythm in Unity. Humble beginnings. Also, frustrated at the internet and AudioSettings.dspTime. (Why is it way less accurate than Time.time?! Maybe this will bite me in the butt later.)
+
 ### 2021-02-05:
 Nobody told me that [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/), [Cuphead](https://store.steampowered.com/app/268910/Cuphead/), [Hearthstone](https://playhearthstone.com/en-us), and plenty other amazing games were made in Unity. I already know some 3D Unity, so it just makes sense to flip to that. Saving my Lua work as a different branch in here. (see love2d)
 
